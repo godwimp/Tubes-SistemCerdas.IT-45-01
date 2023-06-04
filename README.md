@@ -1,5 +1,5 @@
 # Tubes-SistemCerdas.IT-45-01
-Tugas Besar untuk Sistem Cerdas IT-45-01 (CTJ2G3)
+Tugas Besar untuk MK Sistem Cerdas IT-45-01 (CTJ2G3) oleh kelompok V
 
 Disusun oleh : 
 -Fadhillah Maulana (1303210039)
